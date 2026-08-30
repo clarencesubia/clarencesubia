@@ -13,14 +13,9 @@ Senior Network Engineer focused on making infrastructure more reliable, secure, 
 
 ## 🚀 Featured Projects
 
-- **Network Automation Toolkit** — Python/Ansible tools for device backups, configuration validation, and bulk changes.
-- **Terraform Network Modules** — Reusable infrastructure modules for cloud networking.
-- **Security Automation Scripts** — Checks and remediation workflows for common security controls.
 
 ## ✍️ Recent Writing
 
-- [Automating Network Operations with Python](your-article-link)
-- [Getting Started with Ansible for Network Engineers](your-article-link)
 
 ## 🧪 Currently Exploring
 
@@ -30,7 +25,8 @@ Senior Network Engineer focused on making infrastructure more reliable, secure, 
 
 ## 🏆 Certifications
 
-- Add your certifications here, e.g. CCNP, AWS, Azure, Fortinet
+- CompTIA Security+
+- ISC2 CCSP
 
 ## 🌐 Connect
 
