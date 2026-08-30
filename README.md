@@ -1,14 +1,38 @@
-# 💫 About Me:
-🔭 I’m currently working as as **Senior Network Engineer**<br>👯 I’m looking to collaborate on **Network, Cloud, and Security Automations**<br>🌱 I’m currently learning **Python, Ansible, Terraform, MCP Servers**<br>💬 Ask me about **Automations, Cloud, Networking, Security**
+# 👋 Hi, I’m Clarence
 
-## 🌐 Socials:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/clarencesubia)
-- [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://clarencesubia.medium.com) 
+Senior Network Engineer focused on making infrastructure more reliable, secure, and repeatable through automation.
 
-## 💻 Tech Stack:
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![Terraform](https://img.shields.io/badge/terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
-- ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-- ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+- 🔭 Building network, cloud, and security automation
+- 🌱 Learning Python, Ansible, Terraform, and MCP servers
+- 👯 Open to collaborating on infrastructure automation and DevOps projects
+- 💬 Ask me about networking, cloud infrastructure, security, and automation
+
+## 🛠️ What I Work With
+
+`Python` · `Ansible` · `Terraform` · `Docker` · `Bash` · `Git`
+
+## 🚀 Featured Projects
+
+- **Network Automation Toolkit** — Python/Ansible tools for device backups, configuration validation, and bulk changes.
+- **Terraform Network Modules** — Reusable infrastructure modules for cloud networking.
+- **Security Automation Scripts** — Checks and remediation workflows for common security controls.
+
+## ✍️ Recent Writing
+
+- [Automating Network Operations with Python](your-article-link)
+- [Getting Started with Ansible for Network Engineers](your-article-link)
+
+## 🧪 Currently Exploring
+
+- MCP servers for infrastructure operations
+- Infrastructure testing and policy-as-code
+- Cloud security automation
+
+## 🏆 Certifications
+
+- Add your certifications here, e.g. CCNP, AWS, Azure, Fortinet
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clarencesubia)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://clarencesubia.medium.com)
