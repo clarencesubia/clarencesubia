@@ -9,7 +9,7 @@ Senior Network Engineer building reliable, secure, and repeatable infrastructure
 
 ## 🛠️ Technologies & Tools
 
-`Python` · `Ansible` · `Terraform` · `Docker` · `Bash` · `Git`
+`Python` · `Ansible` · `Terraform` · `Docker` · `Bash` · `Git` . `Ci/CD`
 
 ## 🚀 Featured Projects
 
