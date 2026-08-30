@@ -12,21 +12,24 @@ Senior Network Engineer focused on making infrastructure more reliable, secure, 
 `Python` · `Ansible` · `Terraform` · `Docker` · `Bash` · `Git`
 
 ## 🚀 Featured Projects
-
-
-## ✍️ Recent Writing
-
+- Custom NetOps Akamai MCP Server & Skills
+- Oracle Cloud Infrastructure Workspace setup
+- Oracle Cloud Infrastructure Workspace cleanup
+- Akamai automation tools
+- External IP address lookup
+- Load balancer and certificate status checker
 
 ## 🧪 Currently Exploring
 
-- MCP servers for infrastructure operations
-- Infrastructure testing and policy-as-code
+- MCP servers for network operations
+- Infrastructure as Code
 - Cloud security automation
 
 ## 🏆 Certifications
 
 - CompTIA Security+
 - ISC2 CCSP
+- PCEP & PCAP (Python)
 
 ## 🌐 Connect
 
