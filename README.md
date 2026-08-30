@@ -18,7 +18,7 @@ Senior Network Engineer focused on making infrastructure more reliable, secure, 
 - Akamai automation tools
 - External IP address lookup
 - Load balancer and certificate status checker
-
+- Zscaler automation tools
 
 ## 🧪 Currently Exploring
 
