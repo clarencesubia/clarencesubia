@@ -9,7 +9,7 @@ Senior Network Engineer building reliable, secure, and repeatable infrastructure
 
 ## 🛠️ Technologies & Tools
 
-`Python` · `Ansible` · `Terraform` · `Docker` · `Bash` · `Git` . `Ci/CD`
+`Python` · `Ansible` · `Terraform` · `Docker` · `Bash` · `Git` . `CI/CD`
 
 ## 🚀 Featured Projects
 
@@ -38,6 +38,16 @@ Senior Network Engineer building reliable, secure, and repeatable infrastructure
 * CompTIA Security+
 * ISC2 Certified Cloud Security Professional (CCSP)
 * PCEP™ and PCAP™ — Python Institute Certifications
+* Terraform Associate (003)
+* JNCIAx3 (Junos, DevOps, Security)
+* Akamai Kona Site Defender - Configuration and Maintenance
+* Akamai Automation and DevOps
+* eLearnSecurity Junior Penetration Tester
+* Zscaler Certified Cloud Administrator Internet Access – Security Specialist
+* Zscaler Certified Cloud Administrator - Internet Access
+* Cisco Certified Specialist - Security Core
+* Palo Alto Networks Certified Network Security Administrator
+* Cisco Certified Network Associate Security (CCNA)
 
 ## 🌐 Connect
 
