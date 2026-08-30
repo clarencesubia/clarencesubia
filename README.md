@@ -19,11 +19,18 @@ Senior Network Engineer focused on making infrastructure more reliable, secure, 
 - External IP address lookup
 - Load balancer and certificate status checker
 
+
 ## 🧪 Currently Exploring
 
 - MCP servers for network operations
 - Infrastructure as Code
 - Cloud security automation
+
+
+## ✍️ Recent Writing
+- https://clarencesubia.medium.com/follow-me-and-i-will-make-you-phishers-of-men-ac79eed19e85
+- https://clarencesubia.medium.com/using-ansible-vault-to-encrypt-secrets-for-python-scripts-4c6c9c34e064
+- https://clarencesubia.medium.com/threat-hunting-using-sysmon-initial-setup-2556889d8011
 
 ## 🏆 Certifications
 
