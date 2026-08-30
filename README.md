@@ -47,7 +47,9 @@ Senior Network Engineer building reliable, secure, and repeatable infrastructure
 * Zscaler Certified Cloud Administrator - Internet Access
 * Cisco Certified Specialist - Security Core
 * Palo Alto Networks Certified Network Security Administrator
+* ITIL® 2011 Foundation
 * Cisco Certified Network Associate Security (CCNA)
+* Career Service Professional Eligibility
 
 ## 🌐 Connect
 
